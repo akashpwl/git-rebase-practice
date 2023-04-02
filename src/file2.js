@@ -27,3 +27,10 @@ console.log('097')
 console.log('124414533')
 f2.includes('hello').valueOf()
 console.log('124433')
+f2.includes('hello98').valueOf()
+console.log('097')
+
+console.log('124414533')
+
+
+f2.includes('hello98').valueOf()
