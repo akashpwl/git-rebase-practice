@@ -4,6 +4,8 @@ const f5 = [1, 2, 3, 4, 5, 6, 7];
 f2.map(f => console.log(f))
 
 f2.includes('hello')
+console.log('000')
+
 console.log('123')
 
 
