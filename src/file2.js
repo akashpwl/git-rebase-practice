@@ -11,7 +11,9 @@ console.log('000')
 
 console.log('123')
 
-
 const found = f5.find(f => f == 5)
 
 console.log(found);
+
+f2.includes('hello').valueOf()
+console.log('124433')
