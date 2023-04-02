@@ -7,7 +7,6 @@ console.log(f6)
 
 
 f2.includes('hello')
-console.log('000')
 
 console.log('123')
 
@@ -15,7 +14,6 @@ const found = f5.find(f => f == 5)
 
 console.log(found);
 
-f2.includes('hello').valueOf()
 
 console.log('rebase log');
 
@@ -34,3 +32,6 @@ console.log('124414533')
 
 
 f2.includes('hello98').valueOf()
+
+console.log('124414533')
+
