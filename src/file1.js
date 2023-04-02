@@ -9,9 +9,10 @@ f1.push('Engineeaar')
 
 f1.forEach(f => f+'123096');
 
-console.log("test logs")
-
 
 console.log(f1)
 
+
 console.log(name4);
+
+console.log(f1)
